@@ -7,3 +7,6 @@ Il contient :
 ## 🌐 Lien vers le site GitHub Pages
 
 [Voir le site en ligne](https://abdelhakbensalem.github.io/module13/)
+git add README.md
+git commit -m "Ajout du lien GitHub Pages dans le README"
+git push origin principal
